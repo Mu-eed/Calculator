@@ -1,0 +1,19 @@
+.output {
+    border: solid;
+    height: 250px;
+}
+
+div#input {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    width: 25%;
+    padding: 30px;
+    font-size: 40px;
+    border-radius: 50%;
+    aspect-ratio: 1;
+}
